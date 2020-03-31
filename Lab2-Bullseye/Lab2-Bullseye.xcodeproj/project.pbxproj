@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		638C6B7923EF8C43000CC3EF /* Lab2-Bullseye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lab2-Bullseye.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		638C6B7923EF8C43000CC3EF /* David Smith's Bullseye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "David Smith's Bullseye.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		638C6B7C23EF8C43000CC3EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		638C6B7E23EF8C43000CC3EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		638C6B8023EF8C43000CC3EF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		638C6B7A23EF8C43000CC3EF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				638C6B7923EF8C43000CC3EF /* Lab2-Bullseye.app */,
+				638C6B7923EF8C43000CC3EF /* David Smith's Bullseye.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,7 +95,7 @@
 			);
 			name = "Lab2-Bullseye";
 			productName = "Lab2-Bullseye";
-			productReference = 638C6B7923EF8C43000CC3EF /* Lab2-Bullseye.app */;
+			productReference = 638C6B7923EF8C43000CC3EF /* David Smith's Bullseye.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -298,7 +298,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dsspring2020.Lab2-Bullseye";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "David Smith's Bullseye";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -318,7 +318,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dsspring2020.Lab2-Bullseye";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "David Smith's Bullseye";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
