@@ -13,6 +13,7 @@
 		638C6B8323EF8C49000CC3EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 638C6B8223EF8C49000CC3EF /* Assets.xcassets */; };
 		638C6B8623EF8C49000CC3EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 638C6B8523EF8C49000CC3EF /* Preview Assets.xcassets */; };
 		638C6B8923EF8C49000CC3EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 638C6B8723EF8C49000CC3EF /* LaunchScreen.storyboard */; };
+		63BB02E32432D4EE00A57CAA /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63BB02E22432D4EE00A57CAA /* AboutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		638C6B8523EF8C49000CC3EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		638C6B8823EF8C49000CC3EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		638C6B8A23EF8C49000CC3EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		63BB02E22432D4EE00A57CAA /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				638C6B7C23EF8C43000CC3EF /* AppDelegate.swift */,
 				638C6B7E23EF8C43000CC3EF /* SceneDelegate.swift */,
 				638C6B8023EF8C43000CC3EF /* ContentView.swift */,
+				63BB02E22432D4EE00A57CAA /* AboutView.swift */,
 				638C6B8223EF8C49000CC3EF /* Assets.xcassets */,
 				638C6B8723EF8C49000CC3EF /* LaunchScreen.storyboard */,
 				638C6B8A23EF8C49000CC3EF /* Info.plist */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63BB02E32432D4EE00A57CAA /* AboutView.swift in Sources */,
 				638C6B7D23EF8C43000CC3EF /* AppDelegate.swift in Sources */,
 				638C6B7F23EF8C43000CC3EF /* SceneDelegate.swift in Sources */,
 				638C6B8123EF8C43000CC3EF /* ContentView.swift in Sources */,
